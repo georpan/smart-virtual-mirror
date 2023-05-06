@@ -82,7 +82,7 @@ var config = {
 			config: {
 				location: "Mesolongi",
 				locationID: "6693122",  //ID from https://openweathermap.org/city
-			appid: "dd520ada29479498512913986e73357b"
+			appid: "                              "
 			}
 		},
 {
